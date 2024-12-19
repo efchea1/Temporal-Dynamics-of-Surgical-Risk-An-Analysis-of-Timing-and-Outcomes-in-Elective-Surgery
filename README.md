@@ -1,4 +1,4 @@
-# Temporal-Dynamics-of-Surgical-Risk-An-Analysis-of-Timing-and-Outcomes-in-Elective-Surgery-project
+# Temporal-Dynamics-of-Surgical-Risk-An-Analysis-of-Timing-and-Outcomes-in-Elective-Surgery
 This study explores the impact of surgical timing on elective surgery outcomes by analyzing factors such as time of day, week, month, and moon phases using SAS on the Survey Timing Study dataset, a retrospective cohort analysis.
 
 # Project Summary: Temporal Dynamics of Surgical Risk: An Analysis of Timing and Outcomes in Elective Surgery using the Survey Timing Study dataset
